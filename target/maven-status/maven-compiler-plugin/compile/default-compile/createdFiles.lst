@@ -1,0 +1,5 @@
+com\qub\artios\controller\ArtiosWebScrappedController.class
+com\qub\artios\Repo\WebsiteRepository.class
+com\qub\artios\Entity\Website.class
+com\qub\artios\ArtiosApplication.class
+com\qub\artios\ServiceImpl\WebsiteService.class
